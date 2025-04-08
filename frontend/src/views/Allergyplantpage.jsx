@@ -8,6 +8,20 @@ import CountUp from 'react-countup';
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 
+// 添加渐变动画样式
+const gradientAnimationStyle = `
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+`;
+
+// 添加样式到文档
+const styleSheet = document.createElement("style");
+styleSheet.innerText = gradientAnimationStyle;
+document.head.appendChild(styleSheet);
+
 function FlyToCenter({ center }) {
     const map = useMap();
   
@@ -137,7 +151,6 @@ const reverseGeocode = async (lat, lng) => {
           padding: '20px', 
           background: '#fff', 
           borderRadius: '10px',
-          boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
         }}>
           <div style={{ width: '200px', marginRight: '30px' }}>
             <CircularProgressbar
@@ -160,6 +173,107 @@ const reverseGeocode = async (lat, lng) => {
                   ? '⚠️ At present, the risk of pollen in the region is medium. Please pay attention to protection.' 
                   : '✅ At present, the pollen risk in the region is low. You can rest assured.'}
             </p>
+          </div>
+        </div>
+
+        {/* 添加建议提示板 */}
+        <div style={{
+          marginTop: '30px',
+          padding: '25px',
+          background: 'linear-gradient(135deg,rgb(161, 215, 201) 0%,rgb(174, 207, 240) 100%)',
+          borderRadius: '15px',
+          boxShadow: '0 4px 15px rgba(0,0,0,0.05)',
+        }}>
+          <h3 style={{
+            color: '#2c3e50',
+            fontSize: '1.5rem',
+            marginBottom: '20px',
+            textAlign: 'center',
+            fontWeight: '600'
+          }}>
+            ______________________ What Should I Do? ______________________
+          </h3>
+          
+          <div style={{
+            display: 'flex',
+            justifyContent: 'space-around',
+            flexWrap: 'wrap',
+            gap: '20px'
+          }}>
+            {/* 高风险建议 */}
+            <div style={{
+              flex: '1',
+              minWidth: '250px',
+              padding: '20px',
+              background: '#fff5f5',
+              borderRadius: '12px',
+              border: '1px solid #ffe3e3'
+            }}>
+              <h4 style={{ color: '#e53e3e', marginBottom: '15px', display: 'flex', alignItems: 'center' }}>
+                <span style={{ marginRight: '8px' }}>🚫</span> High Risk
+              </h4>
+              <ul style={{ 
+                listStyle: 'none', 
+                padding: 0,
+                margin: 0,
+                color: '#4a5568'
+              }}>
+                <li style={{ marginBottom: '8px' }}>• Wear a mask when outdoors</li>
+                <li style={{ marginBottom: '8px' }}>• Avoid outdoor activities</li>
+                <li style={{ marginBottom: '8px' }}>• Use air purifiers indoors</li>
+                <li style={{ marginBottom: '8px' }}>• Keep windows closed</li>
+              </ul>
+            </div>
+
+            {/* 中风险建议 */}
+            <div style={{
+              flex: '1',
+              minWidth: '250px',
+              padding: '20px',
+              background: '#fffaf0',
+              borderRadius: '12px',
+              border: '1px solid #feebc8'
+            }}>
+              <h4 style={{ color: '#d97706', marginBottom: '15px', display: 'flex', alignItems: 'center' }}>
+                <span style={{ marginRight: '8px' }}>⚠️</span> Medium Risk
+              </h4>
+              <ul style={{ 
+                listStyle: 'none', 
+                padding: 0,
+                margin: 0,
+                color: '#4a5568'
+              }}>
+                <li style={{ marginBottom: '8px' }}>• Monitor allergy symptoms</li>
+                <li style={{ marginBottom: '8px' }}>• Carry medication with you</li>
+                <li style={{ marginBottom: '8px' }}>• Change clothes after outdoor activities</li>
+                <li style={{ marginBottom: '8px' }}>• Consider wearing sunglasses</li>
+              </ul>
+            </div>
+
+            {/* 低风险建议 */}
+            <div style={{
+              flex: '1',
+              minWidth: '250px',
+              padding: '20px',
+              background: '#f0fff4',
+              borderRadius: '12px',
+              border: '1px solid #c6f6d5'
+            }}>
+              <h4 style={{ color: '#38a169', marginBottom: '15px', display: 'flex', alignItems: 'center' }}>
+                <span style={{ marginRight: '8px' }}>✅</span> Low Risk
+              </h4>
+              <ul style={{ 
+                listStyle: 'none', 
+                padding: 0,
+                margin: 0,
+                color: '#4a5568'
+              }}>
+                <li style={{ marginBottom: '8px' }}>• Normal outdoor activities allowed</li>
+                <li style={{ marginBottom: '8px' }}>• Stay informed about pollen levels</li>
+                <li style={{ marginBottom: '8px' }}>• Keep basic allergy medication handy</li>
+                <li style={{ marginBottom: '8px' }}>• Monitor local pollen forecasts</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -194,9 +308,15 @@ export default function AllergyPlantPage() {
     const [mapCenter, setMapCenter] = useState([-37.8136, 144.9631]);
     const [searchInput, setSearchInput] = useState('');
     const [filteredSuburbs, setFilteredSuburbs] = useState([]);
- 
 
-  
+    // 添加一个函数来获取当前 suburb 的植物
+    const getCurrentSuburbPlants = () => {
+        if (!selectedSuburb) return [];
+        const suburbPlants = allPlants.filter(p => p.suburb === selectedSuburb);
+        const uniqueSpecies = [...new Set(suburbPlants.map(p => p.species))];
+        return plantInfo.filter(plant => uniqueSpecies.includes(plant.species));
+    };
+
     useEffect(() => {
         fetch('/data/plant.json')
           .then(res => res.json())
@@ -280,7 +400,9 @@ export default function AllergyPlantPage() {
           boxSizing: 'border-box'
         }}>
           <div style={{
-            background: 'linear-gradient(135deg,rgb(101, 164, 90) 10%,rgb(159, 190, 159) 50%)',
+            background: 'linear-gradient(-45deg,rgb(72, 170, 72), #a6c1a6,rgb(147, 195, 58))',
+            backgroundSize: '400% 400%',
+            animation: 'gradientShift 10s ease infinite',
             color: 'white',
             padding: '30px',
             borderRadius: '10px',
@@ -309,8 +431,21 @@ export default function AllergyPlantPage() {
             </p>
           </div>
 
-          <div style={{ display: 'flex', flex: 1, width: '100%', marginBottom: '20px' }}>
-            <div style={{ flex: 2, marginRight: '10px', height: '100%', display: 'flex', flexDirection: 'column' }}>
+          <div style={{ 
+            display: 'flex', 
+            flex: 1, 
+            width: '100%', 
+            marginBottom: '20px',
+            minHeight: '500px'
+          }}>
+            <div style={{ 
+              flex: 2, 
+              marginRight: '10px', 
+              height: '100%', 
+              display: 'flex', 
+              flexDirection: 'column',
+              minHeight: '500px'
+            }}>
               <div style={{ marginBottom: '10px' }}>
                 <label><strong>Search suburb: </strong></label>
                 <div style={{ position: 'relative', display: 'inline-block' }}>
@@ -359,7 +494,17 @@ export default function AllergyPlantPage() {
                   )}
                 </div>
               </div>
-              <MapContainer center={mapCenter} zoom={13} style={{ flex: 1, width: '100%' }}>
+              <MapContainer 
+                center={mapCenter} 
+                zoom={13} 
+                style={{ 
+                  flex: 1, 
+                  width: '100%',
+                  minHeight: '450px',
+                  borderRadius: '10px',
+                  boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
+                }}
+              >
                 <FlyToCenter center={mapCenter} />
                 <TileLayer attribution='&copy; OpenStreetMap contributors' url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png' />
                 {userLocation && (<Marker position={[userLocation.lat, userLocation.lng]}><Popup>Your Location</Popup></Marker>)}
@@ -381,11 +526,29 @@ export default function AllergyPlantPage() {
               </MapContainer>
             </div>
     
-            <div style={{ flex: 1, padding: '15px', backgroundColor: '#f3faf0', borderRadius: '8px', overflowY: 'auto', height: '100%' }}>
-              <h3 style={{ marginBottom: '20px', color: '#213622' }}>Major Allergy Plants</h3>
+            <div style={{ 
+              flex: 1, 
+              padding: '15px', 
+              backgroundColor: '#f3faf0', 
+              borderRadius: '8px', 
+              overflowY: 'auto', 
+              height: '100%',
+              minHeight: '500px'
+            }}>
+              <h3 style={{ marginBottom: '20px', color: '#213622' }}>
+                {selectedSuburb ? `Major Allergy Plants in ${selectedSuburb}` : 'Select a suburb to view plants'}
+              </h3>
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '15px' }}>
-                {plantInfo.map((plant, index) => (
-                  <div key={index} style={{ backgroundColor: 'white', borderRadius: '8px', padding: '10px', cursor: 'pointer', boxShadow: '0 2px 4px rgba(0,0,0,0.1)', transition: 'transform 0.2s' }} onClick={() => setSelectedPlant(plant)}>
+                {getCurrentSuburbPlants().map((plant, index) => (
+                  <div key={index} style={{ 
+                    backgroundColor: 'white', 
+                    borderRadius: '8px', 
+                    padding: '10px', 
+                    cursor: 'pointer', 
+                    boxShadow: '0 2px 4px rgba(0,0,0,0.1)', 
+                    transition: 'transform 0.2s',
+                    opacity: selectedSuburb ? 1 : 0.5
+                  }} onClick={() => setSelectedPlant(plant)}>
                     <img src={plant.image} alt={plant.species} style={{ width: '100%', height: '120px', objectFit: 'cover', borderRadius: '4px' }} />
                     <div style={{ display: 'flex', alignItems: 'center', marginTop: '8px' }}>
                       <img src={plant.icon} alt="icon" style={{ width: '24px', height: '24px', marginRight: '8px' }} />
@@ -393,6 +556,26 @@ export default function AllergyPlantPage() {
                     </div>
                   </div>
                 ))}
+                {!selectedSuburb && (
+                  <div style={{ 
+                    gridColumn: '1 / -1', 
+                    textAlign: 'center', 
+                    padding: '20px',
+                    color: '#666'
+                  }}>
+                    Please select a suburb to view the allergenic plants in that area
+                  </div>
+                )}
+                {selectedSuburb && getCurrentSuburbPlants().length === 0 && (
+                  <div style={{ 
+                    gridColumn: '1 / -1', 
+                    textAlign: 'center', 
+                    padding: '20px',
+                    color: '#666'
+                  }}>
+                    No allergenic plants found in this suburb
+                  </div>
+                )}
               </div>
     
               {selectedPlant && (
