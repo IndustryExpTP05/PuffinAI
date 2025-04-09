@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem;
+  z-index: 1000;
+  font-family: 'Outfit', sans-serif;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.logo {
+  height: 60px;
+}
+
+.brand {
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: black;
+  letter-spacing: 1.2px;
+}
+
+.highlight {
+  color: #00b4ff;
+  font-weight: 700;
+}
+
+.nav-right {
+  display: flex;
+  gap: 150px; /* ✅ More spacing between nav links */
+}
+
+.nav-right a {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  position: relative;
+  font-size: 1.15rem;
+  letter-spacing: 0.5px;
+  transition: color 0.3s ease;
+}
+
+.nav-right a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background: black;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.nav-right a:hover {
+  color: #00b4ff;
+}
+
+.nav-right a:hover::after {
+  transform: scaleX(1);
+}

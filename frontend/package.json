@@ -10,8 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-spring/parallax": "^9.7.5",
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.8.4",
+    "mapbox-gl": "^2.15.0",
+    "papaparse": "^5.5.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.0",
+    "react-scroll-parallax": "^3.4.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",

@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+    background-color: #fff;
+  }
+  
+  /* Shared styles for parallax elements */
+  .image-layer,
+  .text-layer {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 5%;
+    box-sizing: border-box;
+    width: 50%;
+    z-index: 2;
+  }
+  
+  .image-layer img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  /* Image side control */
+  .image-layer.left {
+    left: 0;
+    justify-content: center;
+  }
+  
+  .image-layer.right {
+    right: 0;
+    justify-content: center;
+  }
+  
+  /* Text side control */
+  .text-layer.left {
+    left: 0;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .text-layer.right {
+    right: 0;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .section-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #1e1e1e;
+    margin-bottom: 1rem;
+  }
+  
+  .section-subtitle {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 2rem;
+    max-width: 500px;
+  }
+  
+  button {
+    padding: 12px 28px;
+    font-size: 1rem;
+    background-color: #e6dafe;
+    color: #1e1e1e;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #cdbef2;
+  }
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .image-layer,
+    .text-layer {
+      position: static;
+      width: 100%;
+      height: auto;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem 1.5rem;
+    }
+  
+    .section-title {
+      font-size: 2.2rem;
+    }
+  
+    .section-subtitle {
+      font-size: 1.2rem;
+    }
+  
+    .image-layer img {
+      width: 80%;
+    }
+  }
+  
+  .section-divider {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    z-index: 2;
+  }
+  

@@ -1,0 +1,114 @@
+.subscribe-form-inline {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .subscribe-form-inline input {
+    flex: 1;
+    padding: 16px 20px;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    outline: none;
+    min-width: 200px;
+  }
+  
+  .subscribe-form-inline input:focus {
+    
+    box-shadow: 0 0 0 3px rgba(142, 119, 244, 0.2);
+  }
+  
+  .subscribe-form-inline button {
+    padding: 16px 24px;
+    font-size: 1.1rem;
+    background-color: #f9a825; /* 🟡 Bold yellow-orange */
+    color: #1e1e1e;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribe-form-inline button:hover {
+    background-color: #f57f17;
+  }
+  .subscribe-message {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  .subscribe-message.error {
+    color: red;
+  }
+  
+  /* ✅ Popup Styles */
+  .subscribe-popup {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #1e1e1e;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    font-size: 1rem;
+    z-index: 999;
+    max-width: 90vw;
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    animation: slideUp 0.4s ease;
+  }
+  
+  .popup-text {
+    margin: 0 0 1rem;
+    font-size: 1.1rem;
+    color: #e7e7e7;
+    line-height: 1.5;
+    padding-top: 30px;
+  }
+  
+  .popup-close {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .popup-action {
+    background-color: #ffffff;
+    color: #1e1e1e;
+    padding: 12px 24px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+  
+  .popup-action:hover {
+    background-color: #dddddd;
+  }
+  
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateX(-50%) translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  }
+  
