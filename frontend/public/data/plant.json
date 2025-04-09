@@ -253,12 +253,6 @@
   },
   {
     "scientificName":"Platanus",
-    "latitude":-37.833535,
-    "longitude":144.983515,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Platanus",
     "latitude":-37.817248,
     "longitude":144.956079,
     "suburb":"Melbourne"
@@ -655,12 +649,6 @@
   },
   {
     "scientificName":"Platanus",
-    "latitude":-37.831516,
-    "longitude":144.972882,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Platanus",
     "latitude":-37.79178,
     "longitude":144.977515,
     "suburb":"Fitzroy North"
@@ -748,12 +736,6 @@
     "latitude":-37.731389,
     "longitude":144.947341,
     "suburb":"Pascoe Vale"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.842632,
-    "longitude":144.977705,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -883,12 +865,6 @@
   },
   {
     "scientificName":"Platanus",
-    "latitude":-37.841684,
-    "longitude":144.977305,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Platanus",
     "latitude":-37.849055,
     "longitude":145.01557,
     "suburb":"Toorak"
@@ -946,12 +922,6 @@
     "latitude":-37.837957,
     "longitude":145.102121,
     "suburb":"Burwood"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.858832,
-    "longitude":145.64206,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -1060,12 +1030,6 @@
     "latitude":-37.854367,
     "longitude":144.979244,
     "suburb":"St Kilda"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.858832,
-    "longitude":145.64206,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -1951,12 +1915,6 @@
   },
   {
     "scientificName":"Platanus",
-    "latitude":-37.828329,
-    "longitude":144.979815,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Platanus",
     "latitude":-37.791901,
     "longitude":144.97757,
     "suburb":"Fitzroy North"
@@ -2026,12 +1984,6 @@
     "latitude":-37.934293,
     "longitude":145.150731,
     "suburb":"Springvale"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.841684,
-    "longitude":144.977305,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -2524,12 +2476,6 @@
     "latitude":-37.919893,
     "longitude":144.998785,
     "suburb":"Brighton"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.841684,
-    "longitude":144.977305,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -3157,12 +3103,6 @@
   },
   {
     "scientificName":"Platanus",
-    "latitude":-37.804968,
-    "longitude":144.958843,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Platanus",
     "latitude":-37.922043,
     "longitude":145.005441,
     "suburb":"Brighton"
@@ -3208,12 +3148,6 @@
     "latitude":-37.882371,
     "longitude":144.998879,
     "suburb":"Elsternwick"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.841684,
-    "longitude":144.977305,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus",
@@ -3328,12 +3262,6 @@
     "latitude":-37.799588,
     "longitude":145.002231,
     "suburb":"Abbotsford"
-  },
-  {
-    "scientificName":"Platanus",
-    "latitude":-37.829383,
-    "longitude":144.982087,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Platanus x hispanica",
@@ -3472,12 +3400,6 @@
     "latitude":-38.37472,
     "longitude":145.03889,
     "suburb":"Red Hill South"
-  },
-  {
-    "scientificName":"Betulaceae",
-    "latitude":-38.357882,
-    "longitude":144.946642,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Betulaceae",
@@ -4096,12 +4018,6 @@
     "latitude":-37.61417,
     "longitude":144.93917,
     "suburb":"Roxburgh Park"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.5512,
-    "longitude":145.02749,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -5047,12 +4963,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.42944,
-    "longitude":145.04917,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.74361,
     "longitude":145.21944,
     "suburb":"Warrandyte"
@@ -5098,18 +5008,6 @@
     "latitude":-37.85861,
     "longitude":144.85278,
     "suburb":"Altona"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.83833,
-    "longitude":144.51778,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.82972,
-    "longitude":144.97722,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -5437,18 +5335,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.61111,
-    "longitude":145.29389,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.54472,
-    "longitude":145.08889,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.78417,
     "longitude":144.99556,
     "suburb":"Northcote"
@@ -5695,12 +5581,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.8854,
-    "longitude":144.663375,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.91639,
     "longitude":144.78611,
     "suburb":"Point Cook"
@@ -5824,18 +5704,6 @@
     "latitude":-37.63556,
     "longitude":143.86333,
     "suburb":"Ballarat"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.9741,
-    "longitude":144.5615,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.89833,
-    "longitude":144.50278,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -6010,12 +5878,6 @@
     "latitude":-37.90722,
     "longitude":144.77778,
     "suburb":"Point Cook"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.83361,
-    "longitude":144.97306,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -6697,12 +6559,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.88264,
-    "longitude":144.49479,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.26944,
     "longitude":145.87361,
     "suburb":"Snobs Creek"
@@ -6712,12 +6568,6 @@
     "latitude":-38.21598,
     "longitude":144.29799,
     "suburb":"Waurn Ponds"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.81278,
-    "longitude":145.49889,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -7129,12 +6979,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.61389,
-    "longitude":145.20694,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.61167,
     "longitude":145.11194,
     "suburb":"Doreen"
@@ -7162,12 +7006,6 @@
     "latitude":-37.82,
     "longitude":144.74722,
     "suburb":"Truganina"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.94361,
-    "longitude":144.51556,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -7297,18 +7135,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.60991,
-    "longitude":144.84014,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.56056,
-    "longitude":145.05917,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.18853,
     "longitude":145.14475,
     "suburb":"Frankston South"
@@ -7435,12 +7261,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.54917,
-    "longitude":145.05833,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.8032,
     "longitude":144.07996,
     "suburb":"Meredith"
@@ -7474,12 +7294,6 @@
     "latitude":-37.55697,
     "longitude":144.72982,
     "suburb":"Sunbury"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.88444,
-    "longitude":144.66806,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -7732,12 +7546,6 @@
     "latitude":-37.42083,
     "longitude":144.98,
     "suburb":"Wallan"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.94194,
-    "longitude":144.56944,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -8041,12 +7849,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.89556,
-    "longitude":144.49861,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.37294,
     "longitude":144.90027,
     "suburb":"Rosebud"
@@ -8086,12 +7888,6 @@
     "latitude":-35.97167,
     "longitude":143.62417,
     "suburb":"Boort"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.82333,
-    "longitude":145.56806,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -8146,18 +7942,6 @@
     "latitude":-37.82833,
     "longitude":144.81222,
     "suburb":"Laverton North"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.84472,
-    "longitude":145.50139,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.40896763,
-    "longitude":144.9558807,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -8272,12 +8056,6 @@
     "latitude":-37.623241,
     "longitude":145.0780772,
     "suburb":"South Morang"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.56778,
-    "longitude":145.07944,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -8605,12 +8383,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.56477,
-    "longitude":144.79224,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.81516,
     "longitude":144.96799,
     "suburb":"Melbourne"
@@ -8731,12 +8503,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.07694,
-    "longitude":145.54361,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.88944,
     "longitude":145.10083,
     "suburb":"Chadstone"
@@ -8746,12 +8512,6 @@
     "latitude":-36.14972,
     "longitude":144.76278,
     "suburb":"Echuca"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.14142,
-    "longitude":145.48462,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -8878,12 +8638,6 @@
     "latitude":-38.16056,
     "longitude":145.24111,
     "suburb":"Cranbourne South"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.94472,
-    "longitude":144.50833,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -9097,12 +8851,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.39917,
-    "longitude":145.00528,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.79306,
     "longitude":144.76694,
     "suburb":"Derrimut"
@@ -9130,12 +8878,6 @@
     "latitude":-36.61972,
     "longitude":145.19874,
     "suburb":"Murchison"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.6096,
-    "longitude":144.80275,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -9304,12 +9046,6 @@
     "latitude":-38.7196,
     "longitude":143.69606,
     "suburb":"Apollo Bay"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.0931,
-    "longitude":145.68611,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -9805,12 +9541,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.74833,
-    "longitude":145.91806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.11997,
     "longitude":142.81342,
     "suburb":"Mortlake"
@@ -9826,12 +9556,6 @@
     "latitude":-38.05528,
     "longitude":145.44306,
     "suburb":"Pakenham"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.22,
-    "longitude":145.37,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -9907,21 +9631,9 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.9788,
-    "longitude":144.55552,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.64861,
     "longitude":144.85139,
     "suburb":"Melbourne Airport"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.97611,
-    "longitude":144.68222,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -10198,12 +9910,6 @@
     "latitude":-38.64639,
     "longitude":145.67472,
     "suburb":"Inverloch"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.95806,
-    "longitude":144.56222,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -10507,12 +10213,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.9475,
-    "longitude":144.57278,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.16516,
     "longitude":145.16799,
     "suburb":"Langwarrin"
@@ -10690,12 +10390,6 @@
     "latitude":-37.70667,
     "longitude":145.27639,
     "suburb":"Bend of Islands"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.83444,
-    "longitude":144.49972,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -10948,12 +10642,6 @@
     "latitude":-36.32631,
     "longitude":145.25915,
     "suburb":"Tatura"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.58565,
-    "longitude":144.78723,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -11497,12 +11185,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.82194,
-    "longitude":144.45278,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.69222,
     "longitude":145.12194,
     "suburb":"St Helena"
@@ -11554,12 +11236,6 @@
     "latitude":-37.60667,
     "longitude":145.015,
     "suburb":"Wollert"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.22389,
-    "longitude":145.31222,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -11773,12 +11449,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.977,
-    "longitude":144.51374,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-36.65,
     "longitude":143.25,
     "suburb":"St Arnaud"
@@ -11899,12 +11569,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.56619,
-    "longitude":145.06709,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.6183,
     "longitude":144.9408,
     "suburb":"Craigieburn"
@@ -11998,12 +11662,6 @@
     "latitude":-37.55552,
     "longitude":144.89066,
     "suburb":"Mickleham"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.2034,
-    "longitude":145.363,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -12121,12 +11779,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.68528,
-    "longitude":145.52111,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-35.964106,
     "longitude":145.999811,
     "suburb":"Mulwala"
@@ -12184,12 +11836,6 @@
     "latitude":-37.86833,
     "longitude":145.21528,
     "suburb":"Wantirna South"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.49194,
-    "longitude":144.89083,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -12295,12 +11941,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.68528,
-    "longitude":145.52306,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.16028,
     "longitude":145.23944,
     "suburb":"Cranbourne South"
@@ -12346,12 +11986,6 @@
     "latitude":-36.26583,
     "longitude":143.21806,
     "suburb":"Charlton"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.90222,
-    "longitude":144.56944,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -12757,21 +12391,9 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.9352,
-    "longitude":144.56922,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.94639,
     "longitude":145.13194,
     "suburb":"Clayton South"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.28722,
-    "longitude":145.08361,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -12865,12 +12487,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.615,
-    "longitude":145.20778,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.9031,
     "longitude":147.6339,
     "suburb":"Bairnsdale"
@@ -12892,12 +12508,6 @@
     "latitude":-36.86906,
     "longitude":143.63876,
     "suburb":"Dunolly"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.865,
-    "longitude":145.76806,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -12994,12 +12604,6 @@
     "latitude":-36.5995,
     "longitude":146.04168,
     "suburb":"Benalla"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.95889,
-    "longitude":144.57083,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -13213,12 +12817,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.4125,
-    "longitude":144.95333,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-35.85580556,
     "longitude":145.0288889,
     "suburb":"Barmah"
@@ -13312,12 +12910,6 @@
     "latitude":-37.81667,
     "longitude":144.80611,
     "suburb":"Laverton North"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.35722,
-    "longitude":144.95,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -13426,12 +13018,6 @@
     "latitude":-37.8167,
     "longitude":147.6,
     "suburb":"Bairnsdale"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.23556,
-    "longitude":145.52611,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -13648,12 +13234,6 @@
     "latitude":-36.4825,
     "longitude":146.15417,
     "suburb":"Glenrowan"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.10128,
-    "longitude":145.60419,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -14179,12 +13759,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.26222,
-    "longitude":145.62972,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.02194,
     "longitude":144.04167,
     "suburb":"Teesdale"
@@ -14428,12 +14002,6 @@
     "latitude":-38.15809,
     "longitude":143.58256,
     "suburb":"Beeac"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.94972,
-    "longitude":144.57417,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -15109,12 +14677,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.95944,
-    "longitude":144.55194,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.72528,
     "longitude":144.75917,
     "suburb":"Burnside Heights"
@@ -15274,12 +14836,6 @@
     "latitude":-37.83167,
     "longitude":144.87917,
     "suburb":"Spotswood"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.60346,
-    "longitude":145.19303,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -15523,12 +15079,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.89639,
-    "longitude":144.70694,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.79694,
     "longitude":145.14222,
     "suburb":"Doncaster"
@@ -15661,12 +15211,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.81583,
-    "longitude":145.56667,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.65694,
     "longitude":145.37333,
     "suburb":"Yarra Glen"
@@ -15736,12 +15280,6 @@
     "latitude":-37.81389,
     "longitude":144.80028,
     "suburb":"Derrimut"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.40919544,
-    "longitude":144.9555176,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -15841,12 +15379,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.89368,
-    "longitude":144.54412,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.62167,
     "longitude":144.88667,
     "suburb":"Greenvale"
@@ -15934,12 +15466,6 @@
     "latitude":-38.11061,
     "longitude":145.82858,
     "suburb":"Drouin"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.86528,
-    "longitude":144.51333,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -16090,12 +15616,6 @@
     "latitude":-37.6692,
     "longitude":144.84222,
     "suburb":"Melbourne Airport"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.599,
-    "longitude":145.322,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -16759,21 +16279,9 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.55028,
-    "longitude":145.06528,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.23569,
     "longitude":144.54102,
     "suburb":"Ocean Grove"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.93972,
-    "longitude":144.56778,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -17029,12 +16537,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.2175,
-    "longitude":145.515,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.53083,
     "longitude":145.13194,
     "suburb":"Yan Yean"
@@ -17209,12 +16711,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.4703,
-    "longitude":145.0197,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.17139,
     "longitude":144.71583,
     "suburb":"St Leonards"
@@ -17230,12 +16726,6 @@
     "latitude":-35.8826244,
     "longitude":144.9509138,
     "suburb":"Mathoura"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.93111,
-    "longitude":144.60056,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -17278,12 +16768,6 @@
     "latitude":-37.785,
     "longitude":144.7469,
     "suburb":"Ravenhall"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.625,
-    "longitude":145.21556,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -17338,12 +16822,6 @@
     "latitude":-36.05891,
     "longitude":146.48322,
     "suburb":"Rutherglen"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.95806,
-    "longitude":144.56806,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -17497,21 +16975,9 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.69833,
-    "longitude":145.86806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.8611111,
     "longitude":145.0302778,
     "suburb":"Malvern"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.88806,
-    "longitude":144.69167,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -17827,12 +17293,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.0875,
-    "longitude":145.60374,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.53861,
     "longitude":143.67556,
     "suburb":"Ballarat"
@@ -18085,12 +17545,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.87333,
-    "longitude":144.50417,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.59833,
     "longitude":145.11111,
     "suburb":"Doreen"
@@ -18310,12 +17764,6 @@
     "latitude":-37.70722,
     "longitude":144.95833,
     "suburb":"Hadfield"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.78167,
-    "longitude":146.08472,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -18625,12 +18073,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.58167,
-    "longitude":145.91806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.81642,
     "longitude":145.19703,
     "suburb":"Mitcham"
@@ -18652,12 +18094,6 @@
     "latitude":-37.74572,
     "longitude":144.76,
     "suburb":"Albanvale"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.06694,
-    "longitude":145.66306,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -18781,12 +18217,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.61739,
-    "longitude":145.20999,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.74194,
     "longitude":144.75833,
     "suburb":"Burnside"
@@ -18886,12 +18316,6 @@
     "latitude":-35.9946,
     "longitude":145.0284,
     "suburb":"Barmah"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.6364,
-    "longitude":144.65449,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -18997,12 +18421,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-37.6067,
-    "longitude":145.1874,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-38.14849,
     "longitude":145.18466,
     "suburb":"Langwarrin"
@@ -19030,12 +18448,6 @@
     "latitude":-37.4628,
     "longitude":144.9708,
     "suburb":"Beveridge"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-38.27278,
-    "longitude":145.06917,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -19084,12 +18496,6 @@
     "latitude":-37.71417,
     "longitude":145.16667,
     "suburb":"Eltham"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.55487,
-    "longitude":144.85135,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -19219,12 +18625,6 @@
   },
   {
     "scientificName":"Perennial Rye-grass",
-    "latitude":-38.415,
-    "longitude":145.06806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
     "latitude":-37.63528,
     "longitude":145.05083,
     "suburb":"Epping"
@@ -19312,12 +18712,6 @@
     "latitude":-37.55982,
     "longitude":144.06568,
     "suburb":"Gordon"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.84972,
-    "longitude":144.55389,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -19468,12 +18862,6 @@
     "latitude":-36.315,
     "longitude":142.95194,
     "suburb":"Donald"
-  },
-  {
-    "scientificName":"Perennial Rye-grass",
-    "latitude":-37.77514,
-    "longitude":145.63651,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Perennial Rye-grass",
@@ -20083,12 +19471,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.35306,
-    "longitude":144.97,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.4172,
     "longitude":144.1086,
     "suburb":"Anglesea"
@@ -20152,12 +19534,6 @@
     "latitude":-38.01921327,
     "longitude":145.3278564,
     "suburb":"Berwick"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.30528,
-    "longitude":145.63472,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -20389,12 +19765,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.28028,
-    "longitude":145.09389,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.97022191,
     "longitude":145.293678,
     "suburb":"Narre Warren North"
@@ -20563,12 +19933,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.28917,
-    "longitude":145.08972,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.29139,
     "longitude":145.54639,
     "suburb":"Lang Lang"
@@ -20608,12 +19972,6 @@
     "latitude":-38.20639,
     "longitude":146.5075,
     "suburb":"Traralgon"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.62056,
-    "longitude":145.44722,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -20746,12 +20104,6 @@
     "latitude":-38.40110082,
     "longitude":144.1748549,
     "suburb":"Anglesea"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.0446,
-    "longitude":145.6876,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -21079,12 +20431,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.29222,
-    "longitude":145.08,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.88083,
     "longitude":145.13556,
     "suburb":"Mount Waverley"
@@ -21118,12 +20464,6 @@
     "latitude":-37.9822,
     "longitude":145.4365,
     "suburb":"Emerald"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.95889,
-    "longitude":145.73056,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -21301,12 +20641,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.0446,
-    "longitude":145.6876,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.9690392,
     "longitude":145.2354154,
     "suburb":"Doveton"
@@ -21475,12 +20809,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.4079538,
-    "longitude":144.9576267,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.16556,
     "longitude":145.20083,
     "suburb":"Langwarrin"
@@ -21511,12 +20839,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.85615128,
-    "longitude":145.4995082,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.99806,
     "longitude":145.10167,
     "suburb":"Mordialloc"
@@ -21526,12 +20848,6 @@
     "latitude":-37.86905614,
     "longitude":145.2931861,
     "suburb":"Boronia"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.68528,
-    "longitude":145.52306,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -21694,12 +21010,6 @@
     "latitude":-38.30944,
     "longitude":145.17139,
     "suburb":"Hastings"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37202,
-    "longitude":144.94325,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -22081,12 +21391,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.77782,
-    "longitude":145.660675,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.13048,
     "longitude":145.28446,
     "suburb":"Junction Village"
@@ -22249,12 +21553,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.58565,
-    "longitude":144.78723,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.03896,
     "longitude":145.18487,
     "suburb":"Bangholme"
@@ -22288,18 +21586,6 @@
     "latitude":-37.9499502,
     "longitude":145.2441279,
     "suburb":"Endeavour Hills"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37694,
-    "longitude":144.95806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37207879,
-    "longitude":144.9438912,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -22573,12 +21859,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.85956578,
-    "longitude":145.4773975,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.14013468,
     "longitude":145.2701354,
     "suburb":"Cranbourne"
@@ -22612,12 +21892,6 @@
     "latitude":-37.452011,
     "longitude":144.67659,
     "suburb":"Riddells Creek"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.58282668,
-    "longitude":145.4812014,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -22795,12 +22069,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.71515,
-    "longitude":145.96797,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.89805556,
     "longitude":145.0883333,
     "suburb":"Oakleigh"
@@ -22840,12 +22108,6 @@
     "latitude":-37.9167,
     "longitude":145.1667,
     "suburb":"Mulgrave"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37194,
-    "longitude":144.94528,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -23029,12 +22291,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.11755283,
-    "longitude":145.674195,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.12516306,
     "longitude":145.1636344,
     "suburb":"Frankston North"
@@ -23050,12 +22306,6 @@
     "latitude":-38.022,
     "longitude":145.4413,
     "suburb":"Beaconsfield Upper"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.89545,
-    "longitude":145.47487,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -23200,18 +22450,6 @@
     "latitude":-37.85795,
     "longitude":144.12689,
     "suburb":"Meredith"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.4736718,
-    "longitude":144.9273849,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.85944,
-    "longitude":145.50417,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -23569,12 +22807,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37694,
-    "longitude":144.95806,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.77,
     "longitude":145.26639,
     "suburb":"Croydon Hills"
@@ -23632,18 +22864,6 @@
     "latitude":-37.96702167,
     "longitude":145.3894367,
     "suburb":"Emerald"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.35278,
-    "longitude":144.96972,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.00236,
-    "longitude":145.68,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -23767,12 +22987,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.00226,
-    "longitude":145.68139,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.93333,
     "longitude":145.22972,
     "suburb":"Rowville"
@@ -23824,12 +23038,6 @@
     "latitude":-37.82555,
     "longitude":144.15175,
     "suburb":"Meredith"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.40781375,
-    "longitude":144.9565598,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -24133,12 +23341,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.00833,
-    "longitude":145.62083,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.855,
     "longitude":145.23028,
     "suburb":"Wantirna"
@@ -24244,12 +23446,6 @@
     "latitude":-38.0153,
     "longitude":145.41778,
     "suburb":"Beaconsfield Upper"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.82889,
-    "longitude":145.49028,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -24457,12 +23653,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.35278,
-    "longitude":144.97,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.13333,
     "longitude":145.2175,
     "suburb":"Langwarrin"
@@ -24565,12 +23755,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.68306,
-    "longitude":145.51694,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.82417,
     "longitude":145.41361,
     "suburb":"Silvan"
@@ -24598,12 +23782,6 @@
     "latitude":-37.55804842,
     "longitude":143.8785941,
     "suburb":"Ballarat East"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.01278,
-    "longitude":145.60556,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -24676,12 +23854,6 @@
     "latitude":-38.11919,
     "longitude":144.68107,
     "suburb":"Portarlington"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.58282668,
-    "longitude":145.4812014,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -24937,12 +24109,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.28778,
-    "longitude":145.07778,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.845,
     "longitude":145.22167,
     "suburb":"Wantirna"
@@ -24982,12 +24148,6 @@
     "latitude":-37.9469721,
     "longitude":145.1303702,
     "suburb":"Clayton South"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37111,
-    "longitude":144.94528,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -25111,12 +24271,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.015,
-    "longitude":145.51917,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.98333,
     "longitude":145.14722,
     "suburb":"Keysborough"
@@ -25192,12 +24346,6 @@
     "latitude":-37.88372833,
     "longitude":145.1902917,
     "suburb":"Glen Waverley"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.4628,
-    "longitude":144.89861,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -25549,12 +24697,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.28806,
-    "longitude":145.07417,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.93091275,
     "longitude":145.2451099,
     "suburb":"Rowville"
@@ -25708,12 +24850,6 @@
     "latitude":-37.89805556,
     "longitude":145.0883333,
     "suburb":"Oakleigh"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.24095461,
-    "longitude":145.0743689,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -25891,12 +25027,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.15765,
-    "longitude":145.15604,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.24606,
     "longitude":143.9167,
     "suburb":"Winchelsea"
@@ -26035,12 +25165,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.21760818,
-    "longitude":145.3169198,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.17694,
     "longitude":145.12556,
     "suburb":"Frankston South"
@@ -26080,12 +25204,6 @@
     "latitude":-37.71660274,
     "longitude":145.0540355,
     "suburb":"Bundoora"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.85656715,
-    "longitude":145.4999095,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26185,12 +25303,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.81440912,
-    "longitude":145.5860651,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.1275,
     "longitude":145.16861,
     "suburb":"Frankston North"
@@ -26227,21 +25339,9 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.46830755,
-    "longitude":145.0263419,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.19,
     "longitude":145.14444,
     "suburb":"Frankston South"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.15889,
-    "longitude":145.15778,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26395,12 +25495,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.27361,
-    "longitude":145.08222,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.13700065,
     "longitude":145.2787922,
     "suburb":"Cranbourne"
@@ -26416,12 +25510,6 @@
     "latitude":-38.29345,
     "longitude":144.01652,
     "suburb":"Winchelsea"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.98669,
-    "longitude":145.48655,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26575,12 +25663,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.87966776,
-    "longitude":145.4708204,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.27833,
     "longitude":145.02472,
     "suburb":"Mount Martha"
@@ -26632,12 +25714,6 @@
     "latitude":-38.32611,
     "longitude":145.16944,
     "suburb":"Bittern"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.98849278,
-    "longitude":145.4921738,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26719,12 +25795,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.24056,
-    "longitude":145.07417,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.97337984,
     "longitude":145.1541071,
     "suburb":"Springvale South"
@@ -26776,12 +25846,6 @@
     "latitude":-37.78662385,
     "longitude":145.1165871,
     "suburb":"Doncaster"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.99545667,
-    "longitude":145.6066767,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26845,21 +25909,9 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.15728111,
-    "longitude":145.1559427,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.89,
     "longitude":144.02611,
     "suburb":"Meredith"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.64275333,
-    "longitude":145.4527717,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -26908,12 +25960,6 @@
     "latitude":-37.956648,
     "longitude":145.0483761,
     "suburb":"Highett"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.1575,
-    "longitude":145.15722,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -27034,12 +26080,6 @@
     "latitude":-38.00630278,
     "longitude":145.1330861,
     "suburb":"Braeside"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.05111,
-    "longitude":145.68333,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -27427,12 +26467,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.21376696,
-    "longitude":145.3131148,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.71019667,
     "longitude":144.9966583,
     "suburb":"Reservoir"
@@ -27505,12 +26539,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.6215,
-    "longitude":145.43982,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.19278,
     "longitude":145.11806,
     "suburb":"Mount Eliza"
@@ -27532,12 +26560,6 @@
     "latitude":-38.13916111,
     "longitude":145.27565,
     "suburb":"Cranbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.82316141,
-    "longitude":145.4902375,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -27601,12 +26623,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.82348916,
-    "longitude":145.4943154,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-38.17698,
     "longitude":144.00096,
     "suburb":"Winchelsea"
@@ -27622,12 +26638,6 @@
     "latitude":-37.993265,
     "longitude":145.638456,
     "suburb":"Gembrook"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.37694,
-    "longitude":144.95806,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -27745,12 +26755,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.22778,
-    "longitude":145.09583,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.88313741,
     "longitude":145.2136667,
     "suburb":"Wantirna South"
@@ -27760,12 +26764,6 @@
     "latitude":-37.84528,
     "longitude":145.22417,
     "suburb":"Wantirna"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.24116757,
-    "longitude":145.0758285,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -27796,12 +26794,6 @@
     "latitude":-38.0281,
     "longitude":145.41081,
     "suburb":"Officer"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.86046017,
-    "longitude":145.4779251,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -28177,12 +27169,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.40782391,
-    "longitude":144.9565207,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.7393,
     "longitude":145.41333,
     "suburb":"Coldstream"
@@ -28192,12 +27178,6 @@
     "latitude":-37.9275,
     "longitude":145.27444,
     "suburb":"Lysterfield"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.15708283,
-    "longitude":145.1558985,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -28315,12 +27295,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.7167,
-    "longitude":145.9667,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.85676,
     "longitude":144.84635,
     "suburb":"Seaholme"
@@ -28408,12 +27382,6 @@
     "latitude":-37.88066,
     "longitude":145.25153,
     "suburb":"Knoxfield"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.17972,
-    "longitude":145.57556,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
@@ -28639,12 +27607,6 @@
   },
   {
     "scientificName":"Allocasuarina littoralis",
-    "latitude":-38.35722,
-    "longitude":144.95,
-    "suburb":"Melbourne"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
     "latitude":-37.86518035,
     "longitude":145.2245037,
     "suburb":"Wantirna"
@@ -28654,12 +27616,6 @@
     "latitude":-37.88598269,
     "longitude":145.19359,
     "suburb":"Glen Waverley"
-  },
-  {
-    "scientificName":"Allocasuarina littoralis",
-    "latitude":-37.87482634,
-    "longitude":145.5960072,
-    "suburb":"Melbourne"
   },
   {
     "scientificName":"Allocasuarina littoralis",
